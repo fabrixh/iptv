@@ -48,7 +48,7 @@ https://iptv-org.github.io/iptv/index.category.m3u
 
 Same thing, but split up into separate files:
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore --> 
 <table>
   <thead>
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
@@ -92,6 +92,7 @@ Same thing, but split up into separate files:
 
 <details>
 <summary>Expand</summary>
+<br>
 <br>
 
 Playlist in which each channel has its _language_ as a group title:
